@@ -21,7 +21,15 @@ Heute habe ich die Module 1710 und 1713 wie geplant gemacht. Diese Module sind e
 
 ## Arbeitspakete für 15.09.2023
 
-- [ ] Modul 431_1718
-- [ ] Modul 431_1719
+- [x] Modul 431_1718
+- [x] Modul 431_1719
 - [ ] Projekt überlegen
 - [ ] Projekt starten
+
+Heute habe ich gestartet mit dem Modul 1721. Für dieses Modul habe ich viel Zeit gebraucht, mehr als geplant. Danach habe ich weiter gemacht mit dem Modul 1723. Beide Module konnte ich letzten Mittwoch nicht fertig bearbeiten, darum habe ich sie noch heute gemacht. Die beiden geplanten Module habe ich schon letzte Woche fertig bearbeitet. Am Schluss habe ich noch an meinem Portfolio weitergearbeitet. [64]
+
+## Arbeitspackete für 22.09.2023
+
+- [ ] die geplanten Module fur den 20.06.2023 fertig machen, falls ich nicht fertig werde
+- [ ] am Portfolio weiterarbeiten
+- [ ] evtl. Projekt überlegen

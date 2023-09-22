@@ -30,6 +30,14 @@ Heute habe ich gestartet mit dem Modul 1721. Für dieses Modul habe ich viel Zei
 
 ## Arbeitspackete für 22.09.2023
 
-- [ ] die geplanten Module fur den 20.06.2023 fertig machen, falls ich nicht fertig werde
-- [ ] am Portfolio weiterarbeiten
+- [x] die geplanten Module fur den 20.06.2023 fertig machen, falls ich nicht fertig werde
+- [x] am Portfolio weiterarbeiten
 - [ ] evtl. Projekt überlegen
+
+Die geplanten Module für den 20.06.2023 konnte ich nicht fertig machen. Deshalb habe ich heute diese geplanten Module fertig bearbeitet. Die Module konnte ich schnell fertig machen und es waren nirgens Unklarheiten. Danach habe ich wie geplant am Portfolio weitergearbeitet. Dort bin ich ebenfalls zügig vorangekommen. Das Projekt starten wir nächste Woche.
+
+## Reflexion
+Am Anfang war mir noch nicht ganz klar, für was das Lernatelier überhaupt gedacht ist. Darum konnte ich am Anfang auch nicht eine gute Planung. Mittlerweile ist mir das klarer geworden. Da ich noch fast keine Programmier Kenntnisse habe, habe ich noch kein Projekt angefangen. Bis jetzt habe ich jedes mal an den Modulen oder am Portfolio gearbeitet. Das fand ich gut weil ich manchmal mit den Modulen am Mittwoch nicht fertig geworden bin. Somit hatte ich noch mehr Zeit und musste sie nicht Zuhause fertig machen. Ich war meiner Meinung nach meistens konzentriert am arbeiten und habe die Zeit gut genutzt. [102]
+
+Nächstes Mal werde ich die Arbeitspackete besser planen.
+
